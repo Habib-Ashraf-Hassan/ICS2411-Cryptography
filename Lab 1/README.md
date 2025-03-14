@@ -1,0 +1,1 @@
+This repository contains a Python implementation of a Many-Time Pad (MTP) attack, which exploits the vulnerability of reusing the same stream cipher key to encrypt multiple plaintexts. The goal of this exercise is to decrypt a target ciphertext by leveraging the properties of the XOR operation and the fact that the same key was reused across multiple ciphertexts.
