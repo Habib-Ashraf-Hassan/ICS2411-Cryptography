@@ -4,7 +4,7 @@
 - **Jomo Kenyatta University of Agriculture and Technology**, B.Sc. Computer Science
 - Reg No: **SCT211-0255/2021**
 
-This repository contains a Python implementation in: _**aes_implementation.py**_ of AES encryption/decryption in both **CBC (Cipher Block Chaining)** and **CTR (Counter)** modes. The goal of this exercise is to decrypt given ciphertexts where the **IV (Initialization Vector)** is prepended to the ciphertext in both modes.
+This repository contains a Python implementation in: _**lab2_solution.py**_ of AES encryption/decryption in both **CBC (Cipher Block Chaining)** and **CTR (Counter)** modes. The goal of this exercise is to decrypt given ciphertexts where the **IV (Initialization Vector)** is prepended to the ciphertext in both modes.
 
 ---
 
